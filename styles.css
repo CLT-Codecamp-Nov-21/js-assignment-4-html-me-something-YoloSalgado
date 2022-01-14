@@ -1,1 +1,20 @@
 /* Write your CSS here! */
+
+img {
+  width: 300px;
+  border-radius: 15px;
+  float: center;
+  padding: 25px;
+}
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+body {
+  background-color: rgb(245, 225, 233);
+  font-family: cursive;
+  font-size: 200%;
+  text-align: center;
+}
